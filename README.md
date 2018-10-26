@@ -1,5 +1,5 @@
 # HelloWorld
-My nane is vaibhav
+My name is vaibhav
 1
 2
 E
